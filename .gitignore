@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+data/*.csv
+artifacts/*
+!artifacts/.gitkeep
+.streamlit/
